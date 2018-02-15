@@ -12,7 +12,7 @@ Next, install Claudia Bot Builder as your project dependency by running `npm ins
 
 Now, in your project folder, create a `bot.js` file that will be the starting point for your chatbot.
 
-Your first task is to write a chat bot that will always reply with `Hello from Starman bot`. To see how to dot it with Claudia Bot Builder, take a look at [Claudia Bot Builder API docs](https://github.com/claudiajs/claudia-bot-builder).
+**Your first task is** to write a chat bot that will always reply with `Hello from Starman bot`. To see how to dot it with Claudia Bot Builder, take a look at [Claudia Bot Builder API docs](https://github.com/claudiajs/claudia-bot-builder).
 
 After you've written it, be sure to create your AWS Lambda function and deploy your chatbot by running `claudia create --region eu-central --api-module bot.js`.
 

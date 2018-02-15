@@ -4,7 +4,7 @@ Now, it's time to explore the space! 7th exercise
 
 In this exercise, you will need to actually show the photos from space photos!
 
-**Your task** is to integrate NASA's photo of the day API and show real photo.
+**Your task is** to integrate NASA's photo of the day API and show real photo.
 
 If you need bigger challenge integrate SpaceX API and make requests to it, to provide content whenever each of your submenus is called by your users.
 
