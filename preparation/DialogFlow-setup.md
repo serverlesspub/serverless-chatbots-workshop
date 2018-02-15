@@ -15,17 +15,19 @@ Each of the steps is described in details below. In case you have everything set
 
 ## Create Dialogflow account
 
+To create an account, go to https://dialogflow.com and click on Go to console button as shown in the next figure.
+
 ![](../assets/figure-c.1.png)
 
-...
+This will take you to the login screen, as shown in the next figure. Dialogflow is owned by Google, and it requires sign in with Google account. If you had non-Google Dialogflow account in the past, you can restore the access by clicking on Restore access button.
 
 ![](../assets/figure-c.2.png)
 
-...
+Then, it will ask you to confirm your country and accept terms of service, as shown in next figure. Click on Accept to create a new Dialogflow account.
 
 ![](../assets/figure-c.3.png)
 
-...
+When your account is successfully created, you'll be transfered to the home screen of your Dialogflow Console, as you can see in the next figure, where you can create your first Agent.
 
 ![](../assets/figure-c.4.png)
 
