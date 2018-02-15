@@ -51,7 +51,7 @@ This workshop contains following 9 exercises:
 6. [How do I get back to the menu? Adding quick replies](exercises/exercise-06.md)
 7. [Get NASA pictures of the day: handling HTTP requests](exercises/exercise-07.md)
 8. [Make it more human-like: add typing](exercises/exercise-08.md)
-9. [Where is International Space Station?](exercises/exercise-09.md)
+9. [Where is the International Space Station?](exercises/exercise-09.md)
 
 #### Bonus
 
