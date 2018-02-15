@@ -32,4 +32,4 @@ You can see our solution in a [code section](../code/exercise-01) of this reposi
 
 [![Next](../assets/next.png)](./exercise-02.md)
 
-or [go back](../Dialogflow-setup.md).
+or [go back](../preparation/Dialogflow-setup.md).
