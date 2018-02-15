@@ -73,4 +73,6 @@ Your Starman agent now has small talk integration. You can test it from Try it n
 
 -----
 
-...
+[![Next](../assets/next.png)](../exercises/exercise-01.md)
+
+or [go back](./FB-setup.md).
