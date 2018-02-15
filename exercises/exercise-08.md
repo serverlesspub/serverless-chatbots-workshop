@@ -1,3 +1,3 @@
-# Simple, built-in FB NLP integration
+# Make it more human-like: add typing
 
 ...

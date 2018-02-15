@@ -1,3 +1,3 @@
-# Get NASA pictures of the day: handling HTTP requests
+# Let's chat: small talk integrations
 
 ...

@@ -1,3 +1,3 @@
-# Make it interactive with buttons: creating a menu.
+# Simple, built-in FB NLP integration
 
 ...

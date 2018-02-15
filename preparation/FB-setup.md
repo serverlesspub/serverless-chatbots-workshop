@@ -22,7 +22,7 @@ In case the steps are not similar to the screenshots you see bellow, see Faceboo
 
 ![Create Facebook page](../assets/figure-b.1.png)
 
-You can choose any category, we picked "Cause or Community" because it requires minimal configuration. When you click on "Cause or Community" tile, Facebook will ask you for the name of your page. Name your page "Spaceman", like we did in next figure, and click to Get Started button.
+You can choose any category, we picked "Cause or Community" because it requires minimal configuration. When you click on "Cause or Community" tile, Facebook will ask you for the name of your page. Name your page "Starman", like we did in next figure, and click to Get Started button.
 
 ![Select page category and name your page](../assets/figure-b.2.png)
 
@@ -38,7 +38,7 @@ In case the steps are not similar to the screenshots you see bellow, see a Faceb
 
 ![Facebook developers portal](../assets/figure-b.4.png)
 
-A popup, named "Create a New App ID" will appear, similar to next figure, and ask you for app name and your email. Fil the form (use "Spaceman" for an application name) and click on "Create App ID" button to create a new Facebook application.
+A popup, named "Create a New App ID" will appear, similar to next figure, and ask you for app name and your email. Fil the form (use "Starman" for an application name) and click on "Create App ID" button to create a new Facebook application.
 
 ![Create a new Facebook application](../assets/figure-b.5.png)
 

@@ -1,3 +1,3 @@
-# Make it more human-like: add typing
+# How to guide your customers: creating a menu
 
 ...

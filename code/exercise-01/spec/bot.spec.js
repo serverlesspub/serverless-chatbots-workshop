@@ -7,7 +7,7 @@ describe('Chatbot', () => {
     expect(typeof underTest).toBe('function')
   })
 
-  it('should return "Hello from Spaceman bot" text', () => {
-    expect(underTest()).toBe('Hello from Spaceman bot')
+  it('should return "Hello from Starman bot" text', () => {
+    expect(underTest()).toBe('Hello from Starman bot')
   })
 })

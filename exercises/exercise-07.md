@@ -1,3 +1,3 @@
-# Where is International Space Station?
+# Get NASA pictures of the day: handling HTTP requests
 
 ...

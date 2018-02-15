@@ -1,3 +1,3 @@
-# How to debug your chatbot?
+# Reading your chatbot logs?
 
 ...

@@ -1,7 +1,7 @@
 {
-  "name": "spaceman-bot",
+  "name": "starman-bot",
   "version": "1.0.0",
-  "description": "Spaceman bot - Exercise 01",
+  "description": "Starman bot - Exercise 01",
   "main": "bot.js",
   "scripts": {
     "create": "claudia create --region eu-central-1 --api-module api --cache-api-config apiConfigHash",
