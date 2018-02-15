@@ -56,6 +56,8 @@ Do not close this browser page, you'll need it again in a Exercise 1 in a few mo
 
 ...
 
-—-
+---
 
-...
+[![Next](../assets/next.png)](./Dialogflow-setup.md)
+
+or [go back](./AWS-setup.md).
