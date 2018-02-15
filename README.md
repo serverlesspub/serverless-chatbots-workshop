@@ -37,6 +37,7 @@ You should have at least basic knowledge of Node.js. Also how do web services an
 
 - [AWS account setup](preparation/AWS-setup.md)
 - [Facebook Messenger setup](preparation/FB-setup.md)
+- [Dialogflow setup](preparation/Dialogflow-setup.md)
 
 ### Exercises 
 
@@ -59,4 +60,7 @@ This workshop contains following 9 exercises:
 
 ----
 
-...
+Ready? Click on the Launch button to launch the workshop!
+
+[![Launch workshop](assets/launch.png)](preparation/AWS-setup.md)
+

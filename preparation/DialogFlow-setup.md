@@ -1,6 +1,6 @@
 # Dialogflow account setup
 
-[Dialogflow](https://dialogflow.com) (former API.ai) is a natural language processing engine, owned by Google, that incorporates conversation context like dialogue history, location and user preferences. We'll use it to give NLP powers to our Spaceman bot.
+[Dialogflow](https://dialogflow.com) (former API.ai) is a natural language processing engine, owned by Google, that incorporates conversation context like dialogue history, location and user preferences. We'll use it to give NLP powers to our Starman bot.
 
 To setup Dialogflow you'll need to do following:
 
@@ -33,43 +33,43 @@ When your account is successfully created, you'll be transfered to the home scre
 
 ## Create an Agent
 
-...
+Agent is basically an application, so let's create a new one for Starman bot. To do so, add an Agent name ("Starman"), select your default languauge and timezone, and click Create button, as shown in next figure.
 
 ![](../assets/figure-c.5.png)
 
-...
+This will create your new Agent and take you to its settings in the Console. First screen you'll see will be Intents list, where you can see existing and add new intents, and also test your chatbot via Try it now sidebar. This screen is shown in next figure.
 
 ![](../assets/figure-c.6.png)
 
+Next step is to get an API key, so you can connect your chatbot with Dialogflow agent.
+
 ## Get an API key
 
-...
+To get an API key, click on the hamburger menu and then on the setting icon, as shown in next figure.
 
 ![](../assets/figure-c.7.png)
 
-...
+Then you'll see Client access token and Developer access token in API Keys (v1) section, as shown in next figure. You can aslo use v2 API, but it's in beta at the moment.
 
 ![](../assets/figure-c.8.png)
 
 ## Enable Small Talk
 
-...
+Dialogflow has prebuilt agents that has already set up intents and entities for variety of things, such as alarms, event managers, hotel bookings, and many others. You can import an agent and improve you chatbot with one click.
+
+The most popular Agent (that even has its own section) is Small Talk. It gives your bot small talk support with variety of predefined phrases, that you can customize.
+
+To enable Small Talk, click on the hamburger menu icon and then to Small Talk section in the side menu, as shown in next figure.
 
 ![](../assets/figure-c.9.png)
 
-...
-
-![](../assets/figure-c.9.png)
-
-...
+Then click on Enable switch and save, as shown in next figure.
 
 ![](../assets/figure-c.10.png)
 
-...
+Your Starman agent now has small talk integration. You can test it from Try it now sidebar, try typing "Hello" and you'll see "Good day!" or similar reply, as shown in next figure.
 
 ![](../assets/figure-c.11.png)
-
-...
 
 -----
 
