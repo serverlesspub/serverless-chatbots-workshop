@@ -9,7 +9,7 @@ You will utilize these APIs to create a chatbot that will give current rover pic
 
 Hope you'll enjoy it!
 
-![Starman SpaceX][/assets/starman-panorama.jpg]
+![Starman SpaceX](/assets/starman-panorama.jpg)
 
 ## Workshop plan
 
