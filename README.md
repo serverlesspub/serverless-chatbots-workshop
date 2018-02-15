@@ -43,4 +43,7 @@ This workshop contains following 9 exercises:
 
 ----
 
-...
+Ready? Click on the Launch button to launch the workshop!
+
+[![Launch workshop](assets/launch.png)](preparation/AWS-setup.md)
+
