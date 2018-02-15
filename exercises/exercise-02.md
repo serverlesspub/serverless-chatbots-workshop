@@ -15,6 +15,7 @@ Here are a few tips that can help you to do this exercise:
 - You can use CloudWatch from [AWS Web Console](https://console.aws.amazon.com/).
 - You can also access CloudWatch logs using AWS CLI, using `aws logs get-log-events` and `aws logs filter-log-events` commands.
 - Add `help` option to the AWS CLI command to see command usage. For example, `aws logs get-log-events help` will show you the info about `get-log-events` command.
+- To update your chatbot code use the `claudia update` command.
 
 You can see our solution in a [code section](../code/exercise-02) of this repository.
 
