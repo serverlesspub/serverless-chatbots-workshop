@@ -6,7 +6,7 @@ In this exercise, your chatbot will start talking and replying to basic greeting
 
 Your chatbot should be always prepared to answer to basic greetings, "bye" and "thank you" messages.
 
-This exercise's task is to make your chatbot reply to these messages. For example, when user says "thank you", your chatbot should reply with "You are welcome".
+**This exercise's task is** to make your chatbot reply to these messages. For example, when user says "thank you", your chatbot should reply with "You are welcome".
 
 To do so, you will need to enable Natural Language Processing. This does seem difficult, especially if you've never done it before.
 

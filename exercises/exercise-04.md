@@ -6,7 +6,7 @@ In this exercise, you task will integrate Dialogflow, a complete NLP library to 
 
 In the previous exercise, you've easily made your first basic NLP integration. Yes, your chatbot can say goodbyes and and greet your customers, but this might not be enough. Your chatbot should be able to do some small talk as well. That will impress your users, increase their interaction with your chatbot and they will share it with their friends too.
 
-This exercise's task is to implement small talk in your chatbot, using Dialogflow.
+**This exercise's task is** to implement small talk in your chatbot, using Dialogflow.
 
 ## Tips
 

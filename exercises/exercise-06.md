@@ -9,7 +9,7 @@ Your chatbot should be able to lead your users back to your menus during the who
 
 Luckily, Facebook has a feature called "Quick Replies". Quick replies help you to show buttons in-conversation that can lead to other content or information within your chatbot.
 
-*Your task* is to enable Quick Replies and lead your users back to the main menus or parent menus any time in the conversation.
+**Your task is** to enable Quick Replies and lead your users back to the main menus or parent menus any time in the conversation.
 
 ## Tips
 
