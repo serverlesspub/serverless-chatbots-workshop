@@ -20,6 +20,7 @@
 
 - [AWS account setup](preparation/AWS-setup.md)
 - [Facebook Messenger setup](preparation/FB-setup.md)
+- [Dialogflow setup](preparation/Dialogflow-setup.md)
 
 ### Exercises 
 
