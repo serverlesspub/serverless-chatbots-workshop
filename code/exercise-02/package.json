@@ -4,7 +4,7 @@
   "description": "Spaceman bot - Exercise 01",
   "main": "bot.js",
   "scripts": {
-    "create": "claudia create --region eu-central-1 --api-module bot --cache-api-config apiConfigHash",
+    "create": "claudia create --region eu-central-1 --api-module api --cache-api-config apiConfigHash",
     "update": "claudia update --cache-api-config apiConfigHash",
     "test": "node spec/support/jasmine-runner.js",
     "debug": "node debug spec/support/jasmine-runner.js",
