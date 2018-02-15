@@ -4,9 +4,10 @@
 
 To setup Dialogflow you'll need to do following:
 
-1. Create Dialogflow account.
-2. Create an agent.
-3. Get an API key.
+1. Create Dialogflow account
+2. Create an agent
+3. Get an API key
+4. Enabke Small Talk
 
 Each of the steps is described in details below. In case you have everything set up, scroll to the bottom of this page and click on the Next button.
 
@@ -34,11 +35,39 @@ Each of the steps is described in details below. In case you have everything set
 
 ![](../assets/figure-c.5.png)
 
+...
+
 ![](../assets/figure-c.6.png)
+
+## Get an API key
 
 ...
 
+![](../assets/figure-c.7.png)
 
+...
+
+![](../assets/figure-c.8.png)
+
+## Enable Small Talk
+
+...
+
+![](../assets/figure-c.9.png)
+
+...
+
+![](../assets/figure-c.9.png)
+
+...
+
+![](../assets/figure-c.10.png)
+
+...
+
+![](../assets/figure-c.11.png)
+
+...
 
 -----
 
