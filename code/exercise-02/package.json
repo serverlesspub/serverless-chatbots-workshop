@@ -1,14 +1,14 @@
 {
-  "name": "spaceman-bot",
+  "name": "starman-bot",
   "version": "1.0.0",
-  "description": "Spaceman bot - Exercise 01",
+  "description": "Starman bot - Exercise 01",
   "main": "bot.js",
   "scripts": {
     "create": "claudia create --region eu-central-1 --api-module api --cache-api-config apiConfigHash",
     "update": "claudia update --cache-api-config apiConfigHash",
     "test": "node spec/support/jasmine-runner.js",
     "debug": "node debug spec/support/jasmine-runner.js",
-    "get-logs": "aws logs filter-log-events --log-group-name=/aws/lambda/spaceman-bot --query='events[0].message' --output=text"
+    "get-logs": "aws logs filter-log-events --log-group-name=/aws/lambda/Starman-bot --query='events[0].message' --output=text"
   },
   "dependencies": {
     "claudia-bot-builder": "^3.0.0"

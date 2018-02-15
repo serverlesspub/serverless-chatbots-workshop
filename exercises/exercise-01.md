@@ -1,3 +1,3 @@
-# Hello world from Spaceman chatbot
+# Hello world from Starman chatbot
 
 ...

@@ -43,15 +43,15 @@ You should have at least basic knowledge of Node.js. Also how do web services an
 
 This workshop contains following 9 exercises:
 
-1. [Hello world from Spaceman chatbot](exercises/exercise-01.md)
-2. [How to debug your chatbot?](exercises/exercise-02.md)
+1. [Hello world from Starman chatbot](exercises/exercise-01.md)
+2. [Reading your chatbot logs](exercises/exercise-02.md)
 3. [Simple, built-in FB NLP integration](exercises/exercise-03.md)
-4. [Make it interactive with buttons: creating a menu](exercises/exercise-04.md)
-5. [Get NASA pictures of the day: handling HTTP requests](exercises/exercise-05.md)
-6. [Make it more human-like: add typing](exercises/exercise-05.md)
-7. [How do I get back to the menu? Adding quick replies](exercises/exercise-06.md)
-8. [Where is International Space Station?](exercises/exercise-07.md)
-9. [Let's chat: Advanced 3rd-party NLP integration](exercises/exercise-09.md)
+4. [Let's chat: small talk integration](exercises/exercise-04.md)
+5. [How to guide your customers: creating a menu](exercises/exercise-05.md)
+6. [How do I get back to the menu? Adding quick replies](exercises/exercise-06.md)
+7. [Get NASA pictures of the day: handling HTTP requests](exercises/exercise-07.md)
+8. [Make it more human-like: add typing](exercises/exercise-08.md)
+9. [Where is International Space Station?](exercises/exercise-09.md)
 
 #### Bonus
 
